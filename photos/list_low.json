@@ -1,0 +1,20 @@
+{
+    "greycard": "greycard_low.jpg",
+    "greycard_dist": 20.0,
+    "colorcard_list":[
+        "colorcard_low/01.jpg",
+        "colorcard_low/02.jpg",
+        "colorcard_low/03.jpg",
+        "colorcard_low/04.jpg",
+        "colorcard_low/05.jpg",
+        "colorcard_low/06.jpg",
+        "colorcard_low/07.jpg",
+        "colorcard_low/08.jpg",
+        "colorcard_low/09.jpg",
+        "colorcard_low/10.jpg"
+    ],
+    
+    "photos": [
+        "green_towel_low"
+    ]
+}
