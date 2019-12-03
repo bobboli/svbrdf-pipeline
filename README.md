@@ -1,5 +1,5 @@
 # svbrdf-pipeline
-Generating svBRDF textures from photos taken with mobile phone. [[paper]](svbrdf-pipeline.pdf)
+Generating svBRDF textures from photos taken with mobile phone. [[arxiv]](https://arxiv.org/abs/1912.00321)
 
 ## Usage
 
